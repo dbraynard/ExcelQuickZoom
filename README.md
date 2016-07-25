@@ -6,7 +6,7 @@ MS Excel macro for quickly zooming and panning a line chart
 
 ### Watch Demo on Youtube:
 
-https://www.youtube.com/watch?v=jhVRSjbHANA
+https://www.youtube.com/watch?v=ZK817DhIcvs
 
 ### Getting Started (Easy):
 1. Click and download ChartSampleWithQuickZoom.xlsm
