@@ -9,7 +9,7 @@ MS Excel macro for quickly zooming and panning a line chart
 http://youtu.be/S9mmAU8LJlQ
 
 ### Getting Started (Easy):
-1. Click and download ChartSampleWithQuickZoom.xlsm
+1. Click and download [ChartSampleWithQuickZoom.xlsm](https://github.com/dbraynard/ExcelQuickZoom/blob/master/ChartSampleWithQuickZoom.xlsm?raw=true)
 2. Add your own data
 3. Create new line chart(s) on analysis sheet
 4. Scroll/Pan as needed
